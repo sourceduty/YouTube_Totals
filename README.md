@@ -15,3 +15,6 @@ Retrive and analyze video and channel statistics from YouTube.
 ## FEATURES
 
 - Expanded analytics for YouTube channels.
+
+#
+ℹ️ This software is free and open-source; anyone can redistribute it and/or modify it.
