@@ -4,7 +4,7 @@
 
 ## CONCEPT
 
-Retrive and analyze video and channel statistics from YouTube. 
+Retrieve and analyze video and channel statistics from YouTube. 
 
 ## REFERENCES
 
